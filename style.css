@@ -12,3 +12,6 @@ nav ul{
     gap: 10px;
     list-style: none;
 }
+header .headertitle{
+    background-color: black;
+}
